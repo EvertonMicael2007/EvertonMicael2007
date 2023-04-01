@@ -10,7 +10,7 @@
   Estou finalisando cursso de <b>TI</b>(Tecnologia da Informação).💻<br>
   É sou aluno do <b>DevClub</b> com o intuito de  aprender a se tornar um desenvolvedor de softwares(progamador).💻
   <br>
-  <h2>Estou desposto de aprender back end.E de tudo um pouco.</h2>
+  <h2>Estou desposto de aprender back end.  E de tudo um pouco.</h2>
   <br>
   <br>
   
