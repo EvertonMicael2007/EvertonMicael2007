@@ -5,10 +5,14 @@
 <li><img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
 <li><img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
 <li><img src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
+  <li>Node.JS</li>
+  <li>React</li>
 </lu>
 <p>Estou no 1ºano do ensino médio cursando <b>Eletrotécnica</b>.💻<br> 
   Cursado em <b>TI</b>(Tecnologia da Informação).💻<br>
   É sou aluno do <b>DevClub</b> com o intuito de  aprender a se tornar um desenvolvedor de softwares(progamador).💻
+  <br>
+    <h3 src="https://www.linkedin.com/in/everton-micael/">clik para ir ao meu linkedin!</h3>
   <br>
   <h2>Estou desposto de aprender back end e Front End.  E de tudo um pouco.</h2>
   <br>
