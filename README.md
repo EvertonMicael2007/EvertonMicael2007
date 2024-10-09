@@ -18,7 +18,7 @@
   <br>
   <br>
   
-  [![Everton stats](https://github-readme-stats.vercel.app/api?username=EvertonMicael2007)](https://github.com/anuraghazra/github-readme-stats)
+  [![Everton stats](https://github-readme-stats.vercel.app/api?username=EvertonMicael2007)](https://www.linkedin.com/in/everton-micael/)
   
   <br>
   <br>
