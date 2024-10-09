@@ -16,10 +16,7 @@
   <br>
   <h2>Estou desposto de aprender back end e Front End.  E de tudo um pouco.</h2>
   <br>
-  <br>
-  
-  [![Everton stats](https://github-readme-stats.vercel.app/api?username=EvertonMicael2007)](https://www.linkedin.com/in/everton-micael/)
-  
+  <br>  
   <br>
   <br>
 
